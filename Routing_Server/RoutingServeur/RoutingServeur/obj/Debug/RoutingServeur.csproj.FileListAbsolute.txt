@@ -1,9 +1,6 @@
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\obj\Debug\RoutingServeur.csproj.AssemblyReference.cache
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\obj\Debug\RoutingServeur.csproj.CoreCompileInputs.cache
-C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\RoutingServeur.dll.config
-C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\RoutingServeur.dll
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\RoutingServeur.pdb
-C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\obj\Debug\RoutingServeur.dll
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\obj\Debug\RoutingServeur.pdb
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\GeoCoordinate.NetCore.dll
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
@@ -31,3 +28,7 @@ C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingSer
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\RoutingServeur.exe.config
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\bin\Debug\RoutingServeur.exe
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\obj\Debug\RoutingServeur.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\RoutingServeur\obj\Debug\RoutingServeur.exe

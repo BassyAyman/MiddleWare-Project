@@ -1,5 +1,3 @@
-C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\bin\Debug\ProxyCacheJCDCO.dll.config
-C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\bin\Debug\ProxyCacheJCDCO.dll
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\bin\Debug\ProxyCacheJCDCO.pdb
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\bin\Debug\GeoCoordinate.NetCore.dll
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
@@ -26,5 +24,8 @@ C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCache
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\obj\Debug\ProxyCacheJCDCO.csproj.AssemblyReference.cache
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\obj\Debug\ProxyCacheJCDCO.csproj.CoreCompileInputs.cache
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\obj\Debug\ProxyCacheJCDCO.csproj.CopyComplete
-C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\obj\Debug\ProxyCacheJCDCO.dll
 C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\obj\Debug\ProxyCacheJCDCO.pdb
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\bin\Debug\ProxyCacheJCDCO.exe.config
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\bin\Debug\ProxyCacheJCDCO.exe
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\obj\Debug\ProxyCacheJCDCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pro\Desktop\MiddleWare-Project\Routing_Server\RoutingServeur\ProxyCacheJCDCO\obj\Debug\ProxyCacheJCDCO.exe

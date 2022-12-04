@@ -220,23 +220,16 @@ namespace RoutingServeur
             GeoStation destinationStationPlusProche = getStationPlusProche(destinationStation, destinationAdresse); // un soucis notable, si la liste est vide sa renvoie un null.
             // ajout d'un cas, si la geo la plus proche entre les deux c la meme, pas besoin de prendre de velo.
 
-            // premier calcule simple de trajectoire a suivre, comparaison de la distance adresseorigin-stationorigin + adressfinal-stationfinal
-            // et la distance entre les deux adresse
 
-            double distanceOriginFinal = originAdresse.coordonne.GetDistanceTo(destinationAdresse.coordonne); // distance entre les deux adresseS
+            DirectionSuivre d1 = recupereDirection(CAS_NUMERO_UN, originAdresse, destinationAdresse).Result;
+            DirectionSuivre d2 = recupereDirectionCas2(CAS_NUMERO_DEUX, originAdresse, destinationAdresse, originStationPlusProche, destinationStationPlusProche).Result;
 
-            double distanceAllIn = originAdresse.coordonne.GetDistanceTo(originStationPlusProche.stationCoordinate) + destinationAdresse.coordonne.GetDistanceTo(destinationStationPlusProche.stationCoordinate);
+            double temps1 = d1.segment[0].duration;
+            double temps2 = d2.segment[0].duration + d2.segment[1].duration + d2.segment[2].duration;
+            double tempsMin = Math.Min(temps1, temps2);
 
-            double distanceMin = Math.Min(distanceOriginFinal, distanceAllIn);
+            return (tempsMin == temps1) ? d1 : d2;
 
-            if(distanceMin == distanceOriginFinal) // cas 1 
-            {
-                return recupereDirection(CAS_NUMERO_UN,originAdresse,destinationAdresse).Result;
-            }
-            else // cas 2
-            {
-                return recupereDirectionCas2(CAS_NUMERO_DEUX,originAdresse,destinationAdresse,originStationPlusProche,destinationStationPlusProche).Result;
-            }
         }
     }
 
